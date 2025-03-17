@@ -32,4 +32,4 @@ cd Blockchain_project
 npm install
 
 
-🔗 GitHub Repository: Jyothi-CY/Blockchain_Project
+🔗 GitHub Repository: https://github.com/Jyothi-CY/Blockchain_Project
